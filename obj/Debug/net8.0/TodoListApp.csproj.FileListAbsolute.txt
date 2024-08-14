@@ -1,0 +1,14 @@
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.AssemblyInfoInputs.cache
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.AssemblyInfo.cs
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.csproj.CoreCompileInputs.cache
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/bin/Debug/net8.0/TodoListApp
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/bin/Debug/net8.0/TodoListApp.deps.json
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/bin/Debug/net8.0/TodoListApp.runtimeconfig.json
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/bin/Debug/net8.0/TodoListApp.dll
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/bin/Debug/net8.0/TodoListApp.pdb
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.dll
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/refint/TodoListApp.dll
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.pdb
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/TodoListApp.genruntimeconfig.cache
+/Users/jasmineadhikari/RiderProjects/ConsoleApp7/obj/Debug/net8.0/ref/TodoListApp.dll
